@@ -1,5 +1,3 @@
-# Template project
-
 # Introduction
 
 * This project is based on the giter8 HelloWorld for lagom `sbt new lagom/lagom-java.g8` and broken down step by step.
